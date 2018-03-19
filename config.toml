@@ -147,7 +147,7 @@ disable404 = true
         position = "Data Analytics Consultant"
         dates = "2007 - 2016"
         company = ""
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        details = "**Radio Resource Optimization** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 
         [[params.jobs.list]]
         position = "Telco Engineer"
@@ -194,15 +194,15 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
+        skill = "R"
         level = "98%"
                 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
+        skill = "Tableau"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Angular"
+        skill = "MS Excel"
         level = "95%"
 
         [[params.skills.list]]
@@ -210,7 +210,7 @@ disable404 = true
         level = "95%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
+        skill = "Wireless Broadband"
         level = "75%"
 
         [[params.skills.list]]
