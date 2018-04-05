@@ -53,7 +53,7 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "https://markacebedox.netlify.com"
+        url = "https://markacademic.netlify.com"
         title = "portfoliosite.com"
 
         [[params.contact.list]]
@@ -86,7 +86,7 @@ disable404 = true
 
         [[params.education.list]]
         degree = "BSc in Electronics And Communications Engineering"
-        college = "MMSU"
+        college = ""
         dates = "1999 - 2004"
 
     # Languages section
@@ -129,8 +129,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
-
+        summary = "14+ Years telco industry experience. Knowledge gained from comprehensive machine learning courses, including statistics and R, Capacities to conduct topic-specific or problem-focused research and analysis to gain actionable insights, Confidence presenting research results via detailed reports and illustrative presentations using Tableau, Experience prioritizing tasks and completing assignments accurately and on time, Cross cultural skills enhanced through overseas projects, Technical aptitude to learn new, inter-related technologies to enhance the data science practice"
     # Experiences section
     [params.experiences]
         enable = true
@@ -138,26 +137,32 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Radio Network Insights Lead"
+        position = "Network Insights Lead"
         dates = "2016 - Present"
         company = "Asticom Technology Inc., Philippines"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        details = "A member of the **Network Strategy and Solutions Team**, apply machine learning to location based data, perform exploratory data analysis and present actionable insights for regional team implementation."
 
         [[params.jobs.list]]
         position = "Data Analytics Consultant"
-        dates = "2007 - 2016"
-        company = ""
-        details = "**Radio Resource Optimization** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
-
+        dates = "2009 - 2016"
+        company = "Self-Employed"
+        details = "**Network KPI performance management lead**, Radio Network Features performance evaluation and tuning, RAN planning and parameter tuning, Root Cause Analysis for encountered radio network anomalies"
+        
+        [[params.jobs.list]]
+        position = "Radio Network Planning/Optimization Engineer"
+        dates = "2008 - 2009"
+        company = "Huawei Technologies Philippines Inc."
+        details = "As **RF Engineer**, Supported Technical Pre-sales team to showcase vendor equipment capabilities and features, Performed pre-launch optimization activities for demo-network"
+        
         [[params.jobs.list]]
         position = "Telco Engineer"
         dates = "2004 - 2007"
         company = "SMART Communications. Inc., Philippines"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
-
+        details = "Maintained assigned regional area network KPIs, Performed troubleshooting and root cause analysis to resolve call drops and silent calls, Developed MS Excel macro for optimization team’s data analysis requirements, Maintained team’s website pages and MS Access/SQL databases"
+        
     # Projects section
     [params.projects]
-        enable = true
+        enable = false
         icon = "fa-archive"
         title = "Projects"
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
